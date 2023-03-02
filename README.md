@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-ejemplo del modulo 2 de prepcourse henry
+este es un ejemplo de como hacer un repositorio y clnario desde github
